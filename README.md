@@ -16,13 +16,13 @@ El propósito de nuestro proyecto es ayudar a las personas invidentes a que se t
 **Proceso:**
 
 Para la construcción del prototipo, todo basado en el bastón se complementa con la parte electrónica, siendo la mejora del dispositivo, empleando los requerimientos por lo que se eligieron los siguientes componentes:
--Placa Arduino
--Sensor ultrasónico (HC-SR04)
--Sensor de Obstáculos
--Zumbador
--Leds
--Mini motor vibrador
--NODEMCU
+- Placa Arduino
+- Sensor ultrasónico (HC-SR04)
+- Sensor de Obstáculos
+- Zumbador
+- Leds
+- Mini motor vibrador
+- NODEMCU
 De forma general son los dispositivos que le darán funcionamiento al bastón.
 
 
@@ -79,3 +79,10 @@ Este proceso de transformación buscara de la Base de Datos tomar información e
 **Carga de Datos (Load)**
 
 En este punto de Carga, los datos se logran visualizar en gráficas para un mejor control de los datos e información, de esta forma se genera una grafica de la distancia que existe entre un invidente y un obstaculo.
+
+
+**Integrantes**
+
+Adolfo Ángel Leo Cámara
+
+Sergio Antonio Tziu Cetz
