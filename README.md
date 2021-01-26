@@ -55,5 +55,6 @@ Identificación de los 5´v:
 
 
 Diagrama ETL:
+
 ![etc](https://user-images.githubusercontent.com/78035004/105899971-07ea2d80-5fe1-11eb-918c-f1840dcaa42d.png)
 
