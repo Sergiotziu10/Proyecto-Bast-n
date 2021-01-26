@@ -57,7 +57,7 @@ Bridarle una mejor calidad de vida al invidente, en el cual le ayude a poder agi
  
 2.- Variedad: En nuestro proyecto este apartado funciona con base a las tablas con sus respectivos campos que almacenan datos como por ejemplo una tabla de empleados, requiere un id de empleado, nombre, apellido, etc.
 
-3.- Velocidad: Este punto es primordial para el proyecto ya que refleja el tiempo en el cual se debe visualizar los datos en los campos que se encuentran en la base de datos.
+3.- Velocidad: Este punto es primordial para el proyecto ya que refleja el tiempo en el cual se debe visualizar la información en los campos asignados que se encuentran en la base de datos.
 
 4.- Veracidad: En este caso nuestros sensores al enviar datos primero pasan por una validación para comprobar que sea correcto el dato que se requiere enviar  la base de datos.
 
