@@ -23,3 +23,5 @@ Resultado:
 Bofo adolfo
  te aparece sto bofo
 ya funciona?
+
+para lo sigueinte funciona
