@@ -28,7 +28,7 @@ De forma general son los dispositivos que le darán funcionamiento al bastón.
 
 **Resultado:**
 
-Bridarle una mejor calidad de vida al invidente, de igual forma ayundadole de poder desplazarse de un lugar a otro tomando en cuenta que este dispositivo ayude a evitar accidentes, también ayudando la economía del usuario.
+Bridarle una mejor calidad de vida al invidente, en el cual le ayunde a poder agilizar sus desplazamientos hacia lugares deseados, se toma en cuenta que este dispositivo de igual forma evite accidentes y sobre todo ayudande la economía ya que no se necesita de un gasto excesivo.
 
 **Diagrama de flujo:**
 
