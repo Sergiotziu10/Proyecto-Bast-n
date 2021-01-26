@@ -22,3 +22,4 @@ De forma general son los dispositivos que le darán funcionamiento al bastón.
 Resultado:
 Bofo adolfo
  te aparece sto bofo
+ya funciona?
