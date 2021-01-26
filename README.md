@@ -5,10 +5,14 @@ PROYECTO BASTÓN
 
 El proyecto de bastón servirá para guiar a las personas, para poder ayudarlos en la vida cotidiana con desplazamientos deseados, gracias al sensor ultrasónico le permite trasladarse con mayor seguridad, ¿Cuántas veces no hemos visto una persona ciega tratando de cruzar la calle con mucha dificultad sin poder conseguir ayuda? Es por eso que hemos decidido realizar este proyecto con funciones distintas que han existido.
 
+
 **Propósito:**
+
 El propósito de nuestro proyecto es ayudar a las personas invidentes a que se trasladen a un lugar con mayor seguridad durante la vida cotidiana.
 
+
 **Proceso:**
+
 Para la construcción del prototipo, todo basado en el bastón se complementa con la parte electrónica, siendo la mejora del dispositivo, empleando los requerimientos por lo que se eligieron los siguientes componentes:
 -Placa Arduino
 -Sensor ultrasónico (HC-SR04)
@@ -19,10 +23,13 @@ Para la construcción del prototipo, todo basado en el bastón se complementa co
 -NODEMCU
 De forma general son los dispositivos que le darán funcionamiento al bastón.
 
+
 **Resultado:**
+
 Bridarle una mejor calidad de vida al invidente, de igual forma ayundadole de poder desplazarse de un lugar a otro tomando en cuenta que este dispositivo ayude a evitar accidentes, también ayudando la economía del usuario.
 
 **Diagrama de flujo:**
+
 1. Inicio
 2. Alimentar los dispositivos
 3. Probar el funcionamiento
