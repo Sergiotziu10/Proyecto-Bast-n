@@ -20,8 +20,25 @@ Para la construcción del prototipo, todo basado en el bastón se complementa co
 De forma general son los dispositivos que le darán funcionamiento al bastón.
 
 Resultado:
-bofo 821
+Bridarle una mejor calidad de vida al invidente, de igual forma ayundadole de poder desplazarse de un lugar a otro tomando en cuenta que este dispositivo ayude a evitar accidentes, también ayudando la economía del usuario.
 
-g
+Diagrama de flujo:
+1. Inicio
+2. Alimentar los dispositivos
+3. Probar el funcionamiento
+4. Si funciona ir al paso 5, si no regresar al paso 3
+5. Enviar información al NODEMCU
+6. El NODEMCU se conecta a la base de datos?
+7. Si se conecta, envia información a la base de datos.
+8. Si no se conecta, entonces rechazar informacion
+9. Gráficar la información en una tabla, para mejor visualización.
+10. Fin
 
-adolfo aprueba esto bro
+5 V's del Big Data:
+Volumen
+Variedad
+Velocidad
+Veracidad
+Valor
+
+
