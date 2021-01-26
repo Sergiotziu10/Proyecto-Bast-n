@@ -31,6 +31,7 @@ De forma general son los dispositivos que le darán funcionamiento al bastón.
 Bridarle una mejor calidad de vida al invidente, de igual forma ayundadole de poder desplazarse de un lugar a otro tomando en cuenta que este dispositivo ayude a evitar accidentes, también ayudando la economía del usuario.
 
 **Diagrama de flujo:**
+![ExamenBIGDATA](https://user-images.githubusercontent.com/78035184/105901408-f43fc680-5fe2-11eb-977b-9a69cca02367.png)
 
 1. Inicio
 2. Alimentar los dispositivos
