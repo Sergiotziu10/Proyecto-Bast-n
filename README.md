@@ -68,7 +68,13 @@ Bridarle una mejor calidad de vida al invidente, de igual forma ayundadole de po
 ![etc](https://user-images.githubusercontent.com/78035004/105899971-07ea2d80-5fe1-11eb-918c-f1840dcaa42d.png)
 
 
+**Extracción de información**
+
 La extracción de información se obtendra por medio de un servicio API, de una Base de Datos, información de los sensores, por medio de Consultas en la Página Web.
+
+**Transformación**
 
 Este proceso de transformación buscara de la Base de Datos tomar información en el cual generara un apartado de gráfica, poder garantizar que funcione adecuadamente el dispositivo de invidente y sobre todo tener seguridad en el tráfico de datos.
 
+**Carga de Datos (Load)**
+En este punto de Carga, los datos se logran visualizarse en gráficas para un mejor control de los datos e información que valla llegando durante la carga de datos.
