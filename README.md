@@ -41,4 +41,7 @@ Diagrama de flujo:
 4. Veracidad
 5. Valor
 
+Identificación de los 5´v:
+ 1.- Volumen:
+
 
