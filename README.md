@@ -43,6 +43,7 @@ Diagrama de flujo:
 
 Identificación de los 5´v:
  1.- Volumen: en este punto se presenta los datos que se van almacenando de los sensores hacia la base de datos, ya que recaudan una gran información masivo de datos, en un cierto determinado tiempo de guardar.
- 
-
+2.- Variedad: en nuestro proyecto este apartado funciona con base a las tablas con sus respectivos campos que almacenan datos como por ejemplo una tabla de empleados, requiere un id de empleado, nombre, apellido, etc.
+3.- Velocidad: Este punto es primordial para el proyecto ya que refleja el tiempo en el cual se debe visualizar los datos en los campos que se encuentran en la base de datos.
+4.- 
 
