@@ -35,10 +35,10 @@ Diagrama de flujo:
 10. Fin
 
 5 V's del Big Data:
-Volumen
-Variedad
-Velocidad
-Veracidad
-Valor
+1. Volumen
+2. Variedad
+3. Velocidad
+4. Veracidad
+5. Valor
 
 
