@@ -32,7 +32,6 @@ Bridarle una mejor calidad de vida al invidente, de igual forma ayundadole de po
 
 **Diagrama de flujo:**
 ![ExamenBIGDATA](https://user-images.githubusercontent.com/78035184/105901408-f43fc680-5fe2-11eb-977b-9a69cca02367.png)
-
 1. Inicio
 2. Alimentar los dispositivos
 3. Probar el funcionamiento
