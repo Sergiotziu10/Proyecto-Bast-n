@@ -42,6 +42,7 @@ Diagrama de flujo:
 5. Valor
 
 Identificación de los 5´v:
- 1.- Volumen:
+ 1.- Volumen: en este punto se presenta los datos que se van almacenando de los sensores hacia la base de datos, ya que recaudan una gran información masivo de datos, en un cierto determinado tiempo de guardar.
+ 
 
 
