@@ -3,6 +3,7 @@ Proyecto Bastón por alumnos del 5B
 
 PROYECTO BASTÓN
 
+**Descripción General**
 El proyecto de bastón servirá para guiar a las personas, para poder ayudarlos en la vida cotidiana con desplazamientos deseados, gracias al sensor ultrasónico le permite trasladarse con mayor seguridad, ¿Cuántas veces no hemos visto una persona ciega tratando de cruzar la calle con mucha dificultad sin poder conseguir ayuda? Es por eso que hemos decidido realizar este proyecto con funciones distintas que han existido.
 
 
