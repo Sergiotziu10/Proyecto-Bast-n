@@ -5,10 +5,10 @@ PROYECTO BASTÓN
 
 El proyecto de bastón servirá para guiar a las personas, para poder ayudarlos en la vida cotidiana con desplazamientos deseados, gracias al sensor ultrasónico le permite trasladarse con mayor seguridad, ¿Cuántas veces no hemos visto una persona ciega tratando de cruzar la calle con mucha dificultad sin poder conseguir ayuda? Es por eso que hemos decidido realizar este proyecto con funciones distintas que han existido.
 
-Propósito:
+**Propósito:**
 El propósito de nuestro proyecto es ayudar a las personas invidentes a que se trasladen a un lugar con mayor seguridad durante la vida cotidiana.
 
-Proceso:
+**Proceso:**
 Para la construcción del prototipo, todo basado en el bastón se complementa con la parte electrónica, siendo la mejora del dispositivo, empleando los requerimientos por lo que se eligieron los siguientes componentes:
 -Placa Arduino
 -Sensor ultrasónico (HC-SR04)
@@ -19,10 +19,10 @@ Para la construcción del prototipo, todo basado en el bastón se complementa co
 -NODEMCU
 De forma general son los dispositivos que le darán funcionamiento al bastón.
 
-Resultado:
+**Resultado:**
 Bridarle una mejor calidad de vida al invidente, de igual forma ayundadole de poder desplazarse de un lugar a otro tomando en cuenta que este dispositivo ayude a evitar accidentes, también ayudando la economía del usuario.
 
-Diagrama de flujo:
+**Diagrama de flujo:**
 1. Inicio
 2. Alimentar los dispositivos
 3. Probar el funcionamiento
@@ -34,14 +34,14 @@ Diagrama de flujo:
 9. Gráficar la información en una tabla, para mejor visualización.
 10. Fin
 
-5 V's del Big Data:
+**5 V's del Big Data:**
 1. Volumen
 2. Variedad
 3. Velocidad
 4. Veracidad
 5. Valor
 
-Identificación de los 5´v:
+**Identificación de los 5´v:**
 
 1.- Volumen: En este punto se presenta los datos que se van almacenando de los sensores hacia la base de datos, ya que recaudan una gran información masivo de datos, en un determinado tiempo para guardar información.
  
@@ -54,7 +54,7 @@ Identificación de los 5´v:
 5.- Valor: los datos en este caso son del sensor ultrasonico y sensor de obstaculos, al enviar la informacion a la base de datos aportan un valor para saber la proximidad de un obstaculo que cada invidente posee.
 
 
-Diagrama ETL:
+**Diagrama ETL:**
 
 ![etc](https://user-images.githubusercontent.com/78035004/105899971-07ea2d80-5fe1-11eb-918c-f1840dcaa42d.png)
 
