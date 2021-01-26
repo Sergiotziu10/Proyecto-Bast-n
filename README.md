@@ -70,5 +70,5 @@ Bridarle una mejor calidad de vida al invidente, de igual forma ayundadole de po
 
 La extracción de información se obtendra por medio de un servicio API, de una Base de Datos, información de los sensores, por medio de Consultas en la Página Web.
 
-Este proceso de transformación buscara de la Base de Datos tomar información en el cual generara un apartado de gráfica, poder garantizar que funcione adecuadamente el dispositivo de invidente, tener seguridad en el tráfico de datos.
+Este proceso de transformación buscara de la Base de Datos tomar información en el cual generara un apartado de gráfica, poder garantizar que funcione adecuadamente el dispositivo de invidente y sobre todo tener seguridad en el tráfico de datos.
 
