@@ -33,16 +33,16 @@ Bridarle una mejor calidad de vida al invidente, en el cual le ayude a poder agi
 **Diagrama de flujo:**
 
 ![ExamenBIGDATA](https://user-images.githubusercontent.com/78035184/105901408-f43fc680-5fe2-11eb-977b-9a69cca02367.png)
-1. Inicio
-2. Alimentar los dispositivos
-3. Probar el funcionamiento
-4. Si funciona ir al paso 5, si no regresar al paso 3
-5. Enviar información al NODEMCU
-6. El NODEMCU se conecta a la base de datos?
+1. Inicio.
+2. Alimentar los dispositivos.
+3. Probar el funcionamiento.
+4. Si funciona ir al paso 5, si no regresar al paso 3.
+5. Enviar información al NODEMCU.
+6. ¿El NODEMCU se conecta a la base de datos?
 7. Si se conecta, envia información a la base de datos.
-8. Si no se conecta, entonces rechazar información
+8. Si no se conecta, entonces rechazar información.
 9. Gráficar la información en una tabla, para mejor visualización.
-10. Fin
+10. Fin.
 
 **5 V's del Big Data:**
 1. Volumen
