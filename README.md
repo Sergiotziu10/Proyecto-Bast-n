@@ -77,4 +77,5 @@ La extracción de información se obtendra por medio de un servicio API, de una 
 Este proceso de transformación buscara de la Base de Datos tomar información en el cual generara un apartado de gráfica, poder garantizar que funcione adecuadamente el dispositivo de invidente y sobre todo tener seguridad en el tráfico de datos.
 
 **Carga de Datos (Load)**
+
 En este punto de Carga, los datos se logran visualizarse en gráficas para un mejor control de los datos e información que valla llegando durante la carga de datos.
