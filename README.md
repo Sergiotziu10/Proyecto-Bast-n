@@ -40,7 +40,7 @@ Bridarle una mejor calidad de vida al invidente, en el cual le ayude a poder agi
 5. Enviar información al NODEMCU
 6. El NODEMCU se conecta a la base de datos?
 7. Si se conecta, envia información a la base de datos.
-8. Si no se conecta, entonces rechazar informacion
+8. Si no se conecta, entonces rechazar información
 9. Gráficar la información en una tabla, para mejor visualización.
 10. Fin
 
