@@ -10,7 +10,7 @@ El proyecto de bastón servirá para guiar a las personas, para poder ayudarlos 
 
 **Propósito:**
 
-El propósito de nuestro proyecto es ayudar a las personas invidentes a que se trasladen a un lugar con mayor seguridad durante la vida cotidiana.
+El propósito de nuestro proyecto es ayudar a las personas invidentes a que se trasladen a un lugar con mayor seguridad durante la vida cotidiana y tengan una mejor calidad de vida.
 
 
 **Proceso:**
