@@ -21,4 +21,4 @@ De forma general son los dispositivos que le darán funcionamiento al bastón.
 
 Resultado:
 
-
+g
