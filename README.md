@@ -20,5 +20,4 @@ Para la construcción del prototipo, todo basado en el bastón se complementa co
 De forma general son los dispositivos que le darán funcionamiento al bastón.
 
 Resultado:
-
-
+Bofo adolfo
