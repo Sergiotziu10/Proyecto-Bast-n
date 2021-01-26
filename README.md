@@ -53,3 +53,6 @@ Identificación de los 5´v:
 
 5.- Valor: los datos en este caso son del sensor ultrasonico y sensor de obstaculos, al enviar la informacion a la base de datos aportan un valor para saber la proximidad de un obstaculo que cada invidente posee.
 
+
+Diagrama ETL:
+![etc](https://user-images.githubusercontent.com/78035004/105898990-b4c3ab00-5fdf-11eb-91dc-bc1434928581.png)
